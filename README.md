@@ -43,47 +43,33 @@ Porject4為 3的進階 要加入Call function的能力
 
 基本功能範例
 ----
-範例1: 有做function的call stack 可以區分出 變數的範圍  
-Done(); 以上的為輸入 以下為輸出
-![image](https://github.com/silence0925/PL/blob/master/image/pl%E7%AF%84%E4%BE%8B1.PNG)
+1-
+![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B%EF%BC%91.png)
 
-範例2:Error示範 (行數的部分 每一次跑parse tree會重置)
+1-1
 
-![image](https://github.com/silence0925/PL/blob/master/image/%E9%8C%AF%E8%AA%A4%E7%A4%BA%E7%AF%84.PNG)
+![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B1-1.png)
 
-範例3: 4個function示範  
+1-2
 
-![image](https://github.com/silence0925/PL/blob/master/image/4%E5%80%8Bfunction.PNG)
+![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B1-2.png)
 
-範例4: 重複的變數宣告  
+2-1
 
-![image](https://github.com/silence0925/PL/blob/master/image/%E9%87%8D%E8%A4%87.PNG)
+![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B2-1.png)
 
+2-2
 
+![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B2-2.png)
+3-1
+
+![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B3-1.png)
+
+3-2
+
+![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B3-2.png)
 ------------------------------------------------------
 
-複雜範例
-----
-1.迴圈功能及輸出(階層 只有while功能沒有for)  
-![image](https://github.com/silence0925/PL/blob/master/image/%E9%9A%8E%E4%B9%98.PNG)
-
-2.複雜的輸入 包含條件判斷等等(  Done();以上為輸入!! )
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C1.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C3.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C4.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C5.PNG)
-
-3.複雜的輸入2
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-1.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-2.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-3.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-4.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-5.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-6.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-7.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-8.PNG)
-![image](https://github.com/silence0925/PL/blob/master/image/%E8%A4%87%E9%9B%9C2-9.PNG)
 
 
 
