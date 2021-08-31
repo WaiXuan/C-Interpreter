@@ -8,7 +8,6 @@
 * [介紹](#介紹)
 * [功能](#功能)
 * [範例(基本功能)](#基本功能範例)
-* [範例(複雜示範)](#複雜範例)
 
 ------------------------------------------------------  
 
@@ -43,30 +42,29 @@ Porject4為 3的進階 要加入Call function的能力
 
 基本功能範例
 ----
-1-
+運行範例
 ![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B%EF%BC%91.png)
 
-1-1
+因為輸出關係將過程分開較好理解
 
+宣告各種變數
 ![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B1-1.png)
 
-1-2
-
+宣告成功
 ![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B1-2.png)
 
-2-1
+定義各個變數
 
 ![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B2-1.png)
 
-2-2
-
+定義成功
 ![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B2-2.png)
-3-1
+
+將剛定義的變數進行運算輸出結果
 
 ![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B3-1.png)
 
-3-2
-
+輸出結果
 ![image](https://github.com/WaiXuan/C-Interpreter/blob/12c9f0db47e85997af8cfdcccd73ebb156cb4edf/Image/%E7%AF%84%E4%BE%8B3-2.png)
 ------------------------------------------------------
 
